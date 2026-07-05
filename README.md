@@ -12,16 +12,14 @@ https://chinaneu-ddm.github.io/
 - `styles.css`：页面样式。
 - `script.js`：成果列表切换与导师筛选逻辑。
 - `assets/images/`：导师照片等静态图片资源。
-- `tests/site-structure.test.mjs`：页面结构检查脚本。
 
 ## 本地预览
 
 直接用浏览器打开 `index.html` 即可预览。
 
-## 检查
+## 可选检查
 
 ```bash
-node tests/site-structure.test.mjs
 node --check script.js
 ```
 
