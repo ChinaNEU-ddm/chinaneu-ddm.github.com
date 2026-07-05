@@ -433,6 +433,13 @@ h3 {
   font-size: 18px;
 }
 
+.authors {
+  margin-bottom: 4px;
+  color: #3c4a56;
+  font-size: 14px;
+  font-weight: 700;
+}
+
 .empty-state {
   padding: 22px;
   color: var(--muted);
