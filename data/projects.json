@@ -1,0 +1,92 @@
+[
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "数据驱动与规则驱动双引擎的增强型数据集成技术",
+    "detail": "国家自然科学基金面上项目。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "高质量多模态海量数据获取与整合的理论和技术研究",
+    "detail": "国家重点基础研究发展计划973项目。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "面向数据空间内多模式查询和数据集成的关键技术研究",
+    "detail": "国家自然科学基金面上项目。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "领域社区内基于对象的Web资源整合使能平台关键技术研究",
+    "detail": "863计划。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "支持深层Web数据库网格的部分关键技术研究",
+    "detail": "国家自然科学基金面上项目。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "面向CIMS领域的支持企业业务柔性集成的服务网格技术的研究",
+    "detail": "863计划。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "基于ASP模式支持企业动态联盟的使能系统",
+    "detail": "863计划。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "基于群组生成机理的可解释群组推荐方法研究",
+    "detail": "国家自然科学基金面上项目。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "信息网络市场中面向主题域识别的博弈融合方法",
+    "detail": "国家自然科学基金面上项目。"
+  },
+  {
+    "teacher": "kou",
+    "teacherName": "寇月",
+    "title": "基于群组生成机理的可解释群组推荐方法研究，国家自然科学基金面上项目",
+    "detail": "项目负责人。"
+  },
+  {
+    "teacher": "kou",
+    "teacherName": "寇月",
+    "title": "信息网络市场中面向主题域识别的博弈融合方法，国家自然科学基金面上项目",
+    "detail": "项目负责人。"
+  },
+  {
+    "teacher": "kou",
+    "teacherName": "寇月",
+    "title": "数据空间中基于潜在要素的关联实体集搜索的关键技术研究，国家自然科学基金青年项目",
+    "detail": "项目负责人。"
+  },
+  {
+    "teacher": "nie",
+    "teacherName": "聂铁铮",
+    "title": "异构体系结构的分布式数据存储与管理",
+    "detail": "国家重点研发计划，国家重点研发计划项目。"
+  },
+  {
+    "teacher": "nie",
+    "teacherName": "聂铁铮",
+    "title": "基于大数据融合的区块链数据监管技术研究",
+    "detail": "其他研究项目。"
+  },
+  {
+    "teacher": "nie",
+    "teacherName": "聂铁铮",
+    "title": "面向大数据融合的区块链数据管理关键技术研究",
+    "detail": "国家自然科学基金项目。"
+  }
+]

@@ -1,0 +1,373 @@
+[
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Weakly-Supervised Entity Matching via LLM-Guided Data Augmentation and Knowledge Transfer",
+    "authors": "Wenzhou Dou; Derong Shen*; Xiangmin Zhou; Yue Kou; Tiezheng Nie; Hang Cui; Ge Yu",
+    "detail": "KBS 2026。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "GARF+: self-supervised and interpretable data cleaning with sequence generative adversarial networks",
+    "authors": "Jinfeng Peng; Hanghai Cui; Derong Shen*; Nan Tang; Yue Kou; Tiezheng Nie; Hang Cui; Ge Yu",
+    "detail": "VLDB JOURNAL, 2025。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "LeadFairRec: LLM-enhanced Discriminative Counterfactual Debiasing for Two-sided Fairness in Recommendation",
+    "authors": "Yimin Hou; Yue Kou*; Derong Shen; Xiangmin Zhou; Dong Li; Tiezheng Nie; Ge Yu",
+    "detail": "CIKM 2025。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Token-Fusion: A Sparse Expert Routing Method for Multi-task Data Matching",
+    "authors": "Fangnuo Liu; Derong Shen*",
+    "detail": "CIKM 2025。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "基于异构图注意力网络的实体对齐",
+    "authors": "孙琛琛; 金钰媛; 申德荣; 聂铁铮; 寇月",
+    "detail": "软件学报, 2025。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Multi-task self-supervised learning based fusion representation for Multi-view clustering",
+    "authors": "Tianlong Guo; Derong Shen*; Yue Kou; Tiezheng Nie",
+    "detail": "Information Sciences, 2025。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Towards Long-Text Entity Resolution with Chain-of-Thought Knowledge Augmentation from Large Language Models",
+    "authors": "Jiakai Tang; Derong Shen*; Wenzhou Dou; Tiezheng Nie; Yue Kou",
+    "detail": "DASFAA 2024。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Multi-perspective learning for enhanced user preferences for session-based recommendation",
+    "authors": "Lan Zhang; Derong Shen*; Yue Kou; Tiezheng Nie",
+    "detail": "KBS 2024。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "A Synthetic Minority Oversampling Technique Based on Gaussian Mixture Model Filtering for Imbalanced Data Classification",
+    "authors": "ZhaozhaoXu; DerongShen*; YueKou; TiezhengNie",
+    "detail": "IEEE transactions on Neural Network and learning system，2024,35(3):3740-3753。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "RLclean: An unsupervised integrated data cleaning framework based on deep reinforcement learning",
+    "authors": "Jinfeng Peng; Derong Shen*; Tiezheng Nie; Yue Kou",
+    "detail": "Information Sciences.Information Sciences 2024。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "GARF: A Self-supervised Data Cleaning System with SeqGAN",
+    "authors": "Jinfeng Peng; Derong Shen*; Hanghai Cui; Yue Kou; Tiezheng Nie; Tianlong Guo",
+    "detail": "CIKM 2024。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Enhancing Deep Entity Resolution with Integrated Blocker-Matcher Training: Balancing Consensus and Discrepancy",
+    "authors": "Wenzhou Dou; Derong Shen*; Xiangmin Zhou; Hui Bai; Yue Kou; Tiezheng Nie; Hang Cui; Ge Yu",
+    "detail": "CIKM 2024。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Matching Feature Separation Network for Domain Adaptation in Entity Matching",
+    "authors": "ChenChen Sun; Yang Xu; Derong Shen; Tiezheng Nie",
+    "detail": "WWW 2024。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Soft Target-Enhanced Matching Framework for Deep Entity Matching",
+    "authors": "Wenzhou Dou; Derong Shen*; Xiangmin Zhou; Tiezheng Nie; Yue Kou; Hang Cui; Ge Yu",
+    "detail": "AAAI 2023。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "An enhanced privacy-preserving record linkage approach for multiple databases",
+    "authors": "Shumin Han; Derong Shen*; Ge Yu; Yue Kou; Tiezheng Nie",
+    "detail": "Cluster Computing,25(5):3641-3652（2022）。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "self-supervised and Interpretable Data Cleaning with Sequence Generative Adversarial Networks",
+    "authors": "Jinfeng Peng; Derong Shen*; Nan Tang; Tieying Liu; Yue Kou; Tiezheng Nie; Hang Cui; Ge Yu",
+    "detail": "VLDB2022,16(3):433-446。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Multi-task Generative Adversarial Network for Missing Mobility Data Imputation",
+    "authors": "Meihui Shi; Derong Shen*; Yue Kou; Tiezheng Nie; Ge Yu",
+    "detail": "CIKM 20224480-4484。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "*A new symbolic representation method for time series",
+    "authors": "Yucheng Li; Derong Shen",
+    "detail": "Information Science，(609):276-303（2022）。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "A new shape-based clustering algorithm for time series",
+    "authors": "Yucheng Li; Derong Shen*; Tiezheng Nie; Yue Kou",
+    "detail": "Information Science，(609):411-428（2022）。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "A Synthetic Minority Oversampling Technique Based on Gaussian Mixture Model Filtering for Imbalanced Data Classification",
+    "authors": "ZhaozhaoXua; DerongShen*; YueKou; TiezhengNie",
+    "detail": "IEEE transactions on Neural Network and learning system（2022在线发表）。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Biomedical entity linking based on less labeled data",
+    "authors": "Yu Hu; Derong Shen*; Tiezheng Nie; Yue Kou; Ge Yu",
+    "detail": "FCS,3(16):163343（2022）。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Empowering Transformer with Hybrid Matching Knowledge for Entity Matching",
+    "authors": "Wenzhou Dou; Derong Shen*; Tiezheng Nie; Yue Kou; Chenchen Sun; Hang Cui; Ge Yu",
+    "detail": "DASFAA 202252-67。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "MOBA Game Analysis System Based on Neural Networks",
+    "authors": "Kangwei Li; Derong Shen*; Mengwei Li; Jia Tian; Xiaobo Cao; Tiezheng Nie; Yue Kou",
+    "detail": "WISE 20212021: 518-526。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Constructing Knowledge Representation Vectors by Symbolic Fourier Approximation and Dynamic Time Warping to Improve Time Series Classification",
+    "authors": "Yucheng Li; Derong Shen",
+    "detail": "BigCom2021: 82-89。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Entity Resolution with Hybrid Attention-Based Networks",
+    "authors": "Chenchen Sun; Derong Shen",
+    "detail": "DASFAA2021: 558-565。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Missing POI Check-in Identification Using Generative Adversarial Networks",
+    "authors": "Meihui Shi; Derong Shen*; Yue Kou; Tiezheng Nie; Ge Yu",
+    "detail": "DASFAA2021: 575-590。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Scalable Multi-grained Cross-modal Similarity Query with Interpretability",
+    "authors": "Mingdong Zhu; Derong Shen",
+    "detail": "DSE,6(3):280-293（2021）。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "A cluster-based oversampling algorithm combining SMOTE and k-means for imbalanced medical data",
+    "authors": "Zhaozhao Xu; Derong Shen*; Tiezheng Nie; Yue Kou",
+    "detail": "Information Science,572574-589（2021）。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Mixed Hierarchical Networks for Deep Entity Matching",
+    "authors": "Chenchen Sun; Derong Shen",
+    "detail": "JCST,36(4):822-838（2021）。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "An integrated pipeline model for biomedical entity alignment",
+    "authors": "Yu Hu; Tiezheng Nie; Derong Shen; Yue Kou; Ge Yu",
+    "detail": "FCS,15(3):153321（2021）。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Attentional Memory Network with Correlation-based Embedding for time-aware POI recommendation",
+    "authors": "Meihui Shi; Derong Shen*; Yue Kou; Tiezheng Nie; Ge Yu",
+    "detail": "Knowledge Based System,214(，):106747（2021）。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "A generation probability based percolation network alignment method",
+    "authors": "Shuo Feng; Derong Shen*; Tiezheng Nie; Yue Kou; Ge Yu",
+    "detail": "World Wide Web,24(5):1511-1531（2021）。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "嵌入重采样技术的C4",
+    "authors": "许召召; 申德荣*; 寇月; 聂铁铮",
+    "detail": "5决策树集成分类算法的临床医学预测.控制与决策,36(6):1342-1350（2021）。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Efficient Private Multi-Party Numerical Records Matching",
+    "authors": "Shumin Han; Derong Shen*; Tiezheng Nie; Yue Kou; Ge Yu",
+    "detail": "FCS,14(5):145611（2020）。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "中国科学(信息科学),50(2):221-238（2020）",
+    "authors": "基于层次化混合特征图的链路预测方法研究",
+    "detail": ""
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "计算机研究与发展,57(9):1928-1938（2020）",
+    "authors": "多元图融合的异构信息网嵌入",
+    "detail": ""
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "时间约束的实体解析中记录对排序研究",
+    "authors": "孙琛琛; 申德荣",
+    "detail": "软件学报,31(3):695-709（2020）。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Finding Communities by Decomposing and Embedding Heterogeneous Information Network",
+    "authors": "Yue Kou; Derong Shen; Dong Li; Tiezheng Nie; Ge Yu",
+    "detail": "JCST,35(2):320-337（2020）。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "A hybrid sampling algorithm combining M-SMOTE and ENN based on Random Forest for medical imbalanced data",
+    "authors": "Zhaozhao Xu; Derong Shen*; Tiezheng Nie; Yue Kou",
+    "detail": "Journal of Biomedical Informatics,107103465 (2020)。"
+  },
+  {
+    "teacher": "shen",
+    "teacherName": "申德荣",
+    "title": "Efficient Team Formation in Social Networks based on Constrained Pattern Graph",
+    "authors": "Yue Kou; Derong Shen; Quinn Snell; Dong Li; Tiezheng Nie; Ge Yu; Shuai Ma",
+    "detail": "ICDE 20202020: 889-900。"
+  },
+  {
+    "teacher": "kou",
+    "teacherName": "寇月",
+    "title": "Experts2team: Task Relevance-Induced Team Formation by Combining Global Cohesion with Local Decoupling",
+    "authors": "Yue Kou; Yingxuan Du; Derong Shen; Xiangmin Zhou; Dong Li; Tiezheng Nie; Ge Yu",
+    "detail": "DASFAA 2025, Singapore, 2025, CCF B类会议。"
+  },
+  {
+    "teacher": "kou",
+    "teacherName": "寇月",
+    "title": "Counterfactual Path Augmentation for Reinforcement Reasoning in Explainable Recommendation",
+    "authors": "Yue Kou; Eryu Jiang; Derong Shen; Xiangmin Zhou; Dong Li; Tiezheng Nie; Ge Yu",
+    "detail": "DASFAA 2025, Singapore, 2025, CCF B类会议，大会最佳论文。"
+  },
+  {
+    "teacher": "kou",
+    "teacherName": "寇月",
+    "title": "Curious or Conservative: Dynamic Curiosity-aware Explainable Recommendation",
+    "authors": "Yue Kou; Dong Li; Derong Shen; Xiangmin Zhou; Tiezheng Nie; Ge Yu",
+    "detail": "ACM Transactions on Recommender Systems, 2025, 领域权威期刊。"
+  },
+  {
+    "teacher": "kou",
+    "teacherName": "寇月",
+    "title": "A Self-supervised Group Recommendation Model with Conformity Awareness",
+    "authors": "Yue Kou; Dong Li; Derong Shen; Tiezheng Nie",
+    "detail": "Scientific Reports, 15, 35937 (2025), JCR一区。"
+  },
+  {
+    "teacher": "kou",
+    "teacherName": "寇月",
+    "title": "LeadFairRec: LLM-enhanced Discriminative Counterfactual Debiasing for Two-sided Fairness in Recommendation",
+    "authors": "Yimin Hou; Yue Kou*; Derong Shen; Xiangmin Zhou; Dong Li; Tiezheng Nie; Ge Yu",
+    "detail": "CIKM 2025, Korea, CCF B类会议，通讯作者。"
+  },
+  {
+    "teacher": "kou",
+    "teacherName": "寇月",
+    "title": "Multi-modal Contrastive Fusion for Consensus Learning in Sequential Group Recommendation",
+    "authors": "Yue Kou; Dong Li; Qixiang Tang; Derong Shen; Tiezheng Nie",
+    "detail": "ICME 2025, Nantes, France, 2025, CCF B类会议。"
+  },
+  {
+    "teacher": "kou",
+    "teacherName": "寇月",
+    "title": "Multi-perspective Learning for Enhanced User Preferences for Session-based Recommendation",
+    "authors": "Lan Zhang; Derong Shen; Yue Kou; Tiezheng Nie",
+    "detail": "Knowl. Based Syst. 298: 111997, 2024, 中科院一区。"
+  },
+  {
+    "teacher": "kou",
+    "teacherName": "寇月",
+    "title": "Soft Target-Enhanced Matching Framework for Deep Entity Matching",
+    "authors": "Wenzhou Dou; Derong Shen; Xiangmin Zhou; Tiezheng Nie; Yue Kou; Hang Cui; Ge Yu",
+    "detail": "AAAI 2023, 4259-4266, 2023, CCF A类会议。"
+  },
+  {
+    "teacher": "kou",
+    "teacherName": "寇月",
+    "title": "Incremental User Identification Across Social Networks Based on User-Guider Similarity Index",
+    "authors": "Yue Kou; Dong Li; Derong Shen; Tiezheng Nie; Ge Yu",
+    "detail": "Journal of Computer Science and Technology (JCST),37(3):507-526。"
+  },
+  {
+    "teacher": "kou",
+    "teacherName": "寇月",
+    "title": "Efficient Team Formation in Social Networks based on Constrained Pattern Graph",
+    "authors": "Yue Kou; Derong Shen; Quinn Snell; Dong Li; Tiezheng Nie; Ge Yu; Shuai Ma",
+    "detail": "2020 IEEE 36th Internationa l Conference on Data Engineering (ICDE), CCF A类会议。"
+  },
+  {
+    "teacher": "kou",
+    "teacherName": "寇月",
+    "title": "Finding Communities by Decomposing and Embedding Heterogeneous Information Network",
+    "authors": "Yue Kou; Derong Shen; Dong Li; Tiezheng Nie; Ge Yu",
+    "detail": "Journal of Computer Science and Technology (JCST), CCF B类期刊论文,35(2):320-338。"
+  },
+  {
+    "teacher": "kou",
+    "teacherName": "寇月",
+    "title": "Two-level interactive identification and derivation of topic clusters in complex networks",
+    "authors": "Yue Kou; Derong Shen; Hongbin Xu; Menger Lin; Ge Yu; Tiezheng Nie",
+    "detail": "World Wide Web-Internet and Web Information Systems (WWWJ), JCR一区,18(4):1093-1122。"
+  },
+  {
+    "teacher": "kou",
+    "teacherName": "寇月",
+    "title": "Combing local Scoring and Global Aggregation to Rank Entities for Deep Web Queries",
+    "authors": "Yue Kou; Derong Shen; Ge Yu; Tiezheng Nie",
+    "detail": "Journal of Computer Science and Technology (JCST), CCF B类期刊论文,24(4):626-637。"
+  }
+]
