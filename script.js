@@ -333,8 +333,8 @@ function renderRecords() {
   list.innerHTML = entries
     .map(
       (record) => `
-        <article class="result-item">
-          <div class="result-meta">${record.teacherName}</div>
+        <article class="result-item ${activePanel === "publications" ? "publication-item" : ""}">
+          ${activePanel === "publications" ? "" : `<div class="result-meta">${record.teacherName}</div>`}
           <div>
             <h3>${record.title}</h3>
             ${record.authors ? `<p class="authors">作者：${record.authors}</p>` : ""}

@@ -422,6 +422,10 @@ h3 {
   border-bottom: 0;
 }
 
+.publication-item {
+  grid-template-columns: 1fr;
+}
+
 .result-meta {
   color: var(--green);
   font-size: 14px;
